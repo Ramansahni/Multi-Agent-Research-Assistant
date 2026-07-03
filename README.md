@@ -176,7 +176,7 @@ streamlit run app.py
 **Ramanjot Singh**
 
 - GitHub: https://github.com/Ramansahni
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: https://www.linkedin.com/in/ramanjot-singh-aa5b9327b/
 
 ---
 
